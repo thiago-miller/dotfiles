@@ -40,3 +40,6 @@
 [submodule "vim/.vim/plugged/vim-devicons"]
 	path = vim/.vim/plugged/vim-devicons
 	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "vim/.vim/plugged/vim-nerdtree-syntax-highlight"]
+	path = vim/.vim/plugged/vim-nerdtree-syntax-highlight
+	url = https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.git
