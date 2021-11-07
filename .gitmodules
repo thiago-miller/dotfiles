@@ -16,3 +16,6 @@
 [submodule "vim/.vim/plugged/auto-pairs"]
 	path = vim/.vim/plugged/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "vim/.vim/plugged/dracula"]
+	path = vim/.vim/plugged/dracula
+	url = https://github.com/dracula/vim.git
