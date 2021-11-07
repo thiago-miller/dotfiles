@@ -22,3 +22,6 @@
 [submodule "vim/.vim/plugged/nerdcommenter"]
 	path = vim/.vim/plugged/nerdcommenter
 	url = https://github.com/preservim/nerdcommenter.git
+[submodule "vim/.vim/plugged/nerdtree"]
+	path = vim/.vim/plugged/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
