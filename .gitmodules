@@ -31,3 +31,6 @@
 [submodule "vim/.vim/plugged/taglist.vim"]
 	path = vim/.vim/plugged/taglist.vim
 	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "vim/.vim/plugged/vim-airline"]
+	path = vim/.vim/plugged/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
