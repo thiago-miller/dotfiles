@@ -28,3 +28,6 @@
 [submodule "vim/.vim/plugged/syntastic"]
 	path = vim/.vim/plugged/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "vim/.vim/plugged/taglist.vim"]
+	path = vim/.vim/plugged/taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim.git
