@@ -46,3 +46,6 @@
 [submodule "vim/.vim/plugged/vim-polyglot"]
 	path = vim/.vim/plugged/vim-polyglot
 	url = https://github.com/sheerun/vim-polyglot.git
+[submodule "vim/.vim/plugged/vim-surround"]
+	path = vim/.vim/plugged/vim-surround
+	url = https://github.com/tpope/vim-surround.git
