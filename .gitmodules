@@ -7,3 +7,6 @@
 [submodule "tmux/.tmux/plugins/nord-tmux"]
 	path = tmux/.tmux/plugins/nord-tmux
 	url = https://git::@github.com/arcticicestudio/nord-tmux
+[submodule "tmux/.tmux/plugins/tmux-better-mouse-mode"]
+	path = tmux/.tmux/plugins/tmux-better-mouse-mode
+	url = https://git::@github.com/nhdaly/tmux-better-mouse-mode
