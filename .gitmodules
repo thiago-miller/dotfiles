@@ -19,3 +19,6 @@
 [submodule "vim/.vim/plugged/dracula"]
 	path = vim/.vim/plugged/dracula
 	url = https://github.com/dracula/vim.git
+[submodule "vim/.vim/plugged/nerdcommenter"]
+	path = vim/.vim/plugged/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
