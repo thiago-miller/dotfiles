@@ -58,3 +58,6 @@
 [submodule "zsh/.zsh/oh-my-zsh-custom/plugins/zsh-syntax-highlighting"]
 	path = zsh/.zsh/oh-my-zsh-custom/plugins/zsh-syntax-highlighting
 	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule "zsh/.zsh/oh-my-zsh-custom/themes/spaceship-prompt"]
+	path = zsh/.zsh/oh-my-zsh-custom/themes/spaceship-prompt
+	url = https://github.com/spaceship-prompt/spaceship-prompt.git
