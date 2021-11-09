@@ -61,3 +61,6 @@
 [submodule "zsh/.zsh/oh-my-zsh-custom/themes/spaceship-prompt"]
 	path = zsh/.zsh/oh-my-zsh-custom/themes/spaceship-prompt
 	url = https://github.com/spaceship-prompt/spaceship-prompt.git
+[submodule "dircolors/nord-dircolors"]
+	path = dircolors/nord-dircolors
+	url = https://github.com/arcticicestudio/nord-dircolors.git
