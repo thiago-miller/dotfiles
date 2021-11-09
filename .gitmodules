@@ -64,3 +64,6 @@
 [submodule "dircolors/nord-dircolors"]
 	path = dircolors/nord-dircolors
 	url = https://github.com/arcticicestudio/nord-dircolors.git
+[submodule "gnome-terminal/nord-gnome-terminal"]
+	path = gnome-terminal/nord-gnome-terminal
+	url = https://github.com/arcticicestudio/nord-gnome-terminal.git
