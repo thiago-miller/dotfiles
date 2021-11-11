@@ -1,0 +1,16 @@
+adobe-source-han-sans-otc-fonts
+bash
+bash-completion
+git
+noto-fonts
+powerline-fonts
+procps-ng
+r
+sqlite
+stow
+tex-gyre-fonts
+tmux
+ttf-ubuntu-font-family
+vim
+zsh
+zsh-completions
