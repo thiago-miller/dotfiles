@@ -119,8 +119,9 @@ bashcompinit
 unset appendpath
 # ==================================================
 
-ZSH_CACHE_DIR=$HOME/.oh-my-zsh-cache
-mkdir -p $ZSH_CACHE_DIR
+# Custom zsh cache dir
+#ZSH_CACHE_DIR=$HOME/.oh-my-zsh-cache
+#mkdir -p $ZSH_CACHE_DIR
 
 source $ZSH/oh-my-zsh.sh
 
