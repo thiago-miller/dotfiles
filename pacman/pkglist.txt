@@ -1,6 +1,7 @@
 adobe-source-han-sans-otc-fonts
 bash
 bash-completion
+ctags
 git
 noto-fonts
 pacutils
