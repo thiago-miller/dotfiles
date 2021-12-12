@@ -60,7 +60,7 @@ ZSH_CUSTOM=$HOME/.zsh/oh-my-zsh-custom
 # Add wisely, as too many plugins slow down shell startup.
 #plugins=(git autojump colored-man-pages virtualenv virtualenvwrapper)
 #plugins=(git autojump colored-man-pages command-not-found)
-plugins=(git autojump command-not-found zsh-syntax-highlighting)
+plugins=(git docker autojump command-not-found zsh-syntax-highlighting)
 #plugins=(git autojump command-not-found conda-zsh-completion)
 
 #
