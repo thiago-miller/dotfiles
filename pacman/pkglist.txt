@@ -18,6 +18,7 @@ sqlite
 stow
 tex-gyre-fonts
 tmux
+ttf-dejavu-nerd
 ttf-ubuntu-font-family
 vim
 zsh
