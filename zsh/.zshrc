@@ -102,6 +102,12 @@ if [[ -f "$PERLBREW_ROOT/etc/bashrc" ]]; then
 	source "$PERLBREW_ROOT/etc/bashrc"
 fi
 
+# For ruby gem
+if which gem > /dev/null; then
+	export GEM_HOME="$(gem env user_gemhome)"
+	appendpath "$GEM_HOME/bin"
+fi
+
 # Dircolors theme
 if [[ -f "$HOME/.dir_colors" ]]; then
 	eval `dircolors "$HOME/.dir_colors"`
