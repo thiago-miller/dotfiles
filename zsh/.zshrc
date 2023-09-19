@@ -102,6 +102,9 @@ if [[ -f "$PERLBREW_ROOT/etc/bashrc" ]]; then
 	source "$PERLBREW_ROOT/etc/bashrc"
 fi
 
+# For local::lib
+eval "$(perl -I$HOME/.perl5/lib/perl5 -Mlocal::lib=$HOME/.perl5)"
+
 # For ruby gem
 if which gem > /dev/null; then
 	export GEM_HOME="$(gem env user_gemhome)"
